@@ -26,5 +26,8 @@
     "@semantic-release/release-notes-generator": "^7.3.5",
     "semantic-release": "^15.14.0"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0"
 }
