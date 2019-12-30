@@ -1,7 +1,7 @@
 {
   "name": "@relaycorp/shared-config",
   "description": "Shared development and CI configuration across projects",
-  "main": "index.js",
+  "main": ".releaserc.yml",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
