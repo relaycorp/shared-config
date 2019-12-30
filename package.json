@@ -12,7 +12,11 @@
   "keywords": [
     "relaycorp"
   ],
-  "author": "Relaycorp, Inc.",
+  "author": {
+    "email": "no-reply@relaycorp.tech",
+    "name": "Relaycorp, Inc.",
+    "url": "https://relaycorp.tech/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/relaycorp/shared-config/issues"
