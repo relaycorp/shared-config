@@ -1,6 +1,5 @@
 {
   "name": "@relaycorp/shared-config",
-  "version": "1.0.0",
   "description": "Shared development and CI configuration across projects",
   "main": "index.js",
   "scripts": {
