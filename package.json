@@ -33,11 +33,6 @@
     "tslint-config-prettier": "^1.17.0",
     "tslint-immutable": "^5.0.0"
   },
-  "prettier": {
-    "endOfLine": "lf",
-    "singleQuote": true,
-    "trailingComma": "all"
-  },
   "publishConfig": {
     "access": "public"
   },
