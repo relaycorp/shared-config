@@ -1,0 +1,22 @@
+{
+  "name": "@relaycorp/shared-config",
+  "version": "1.0.0",
+  "description": "Shared development and CI configuration across projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relaycorp/shared-config.git"
+  },
+  "keywords": [
+    "relaycorp"
+  ],
+  "author": "Relaycorp, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/relaycorp/shared-config/issues"
+  },
+  "homepage": "https://github.com/relaycorp/shared-config#readme"
+}
