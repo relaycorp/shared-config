@@ -4,6 +4,9 @@
     "interface-name": [true, "never-prefix"],
     "no-implicit-dependencies": [true, "dev"],
     "no-empty-interface": false,
+    "variable-name": {
+      "options": "allow-leading-underscore"
+    },
 
     /* tslint-immutable rules */
     // Recommended built-in rules
