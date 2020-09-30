@@ -20,10 +20,7 @@
     "no-let": true,
     "no-object-mutation": true,
     "no-delete": true,
-    "no-method-signature": true,
-
-    // Functional style rules
-    "no-mixed-interface": true
+    "no-method-signature": true
     /* end tslint-immutable rules */
   }
 }
