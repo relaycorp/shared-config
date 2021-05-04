@@ -7,10 +7,3 @@ updates:
     time: "08:00"
     timezone: Etc/UCT
   open-pull-requests-limit: 99
-  ignore:
-  - dependency-name: "@semantic-release/npm"
-    versions:
-    - 7.1.0
-  - dependency-name: semantic-release
-    versions:
-    - 17.4.0
