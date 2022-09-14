@@ -3,6 +3,7 @@
   "description": "Shared development and CI configuration across projects",
   "main": "index.js",
   "scripts": {
+    "build": "exit 0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
