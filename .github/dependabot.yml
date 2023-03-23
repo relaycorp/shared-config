@@ -2,8 +2,10 @@ version: 2
 updates:
 - package-ecosystem: npm
   directory: "/"
+  versioning-strategy: increase
   schedule:
-    interval: daily
-    time: "08:00"
-    timezone: Etc/UCT
-  open-pull-requests-limit: 99
+    interval: weekly
+    day: "saturday"
+  commit-message:
+    prefix: "fix(deps):"
+    prefix-development: "chore(deps):"
