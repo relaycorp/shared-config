@@ -1,11 +1,11 @@
 version: 2
 updates:
-- package-ecosystem: npm
-  directory: "/"
-  versioning-strategy: increase
-  schedule:
-    interval: weekly
-    day: "saturday"
-  commit-message:
-    prefix: "fix(deps):"
-    prefix-development: "chore(deps):"
+  - package-ecosystem: npm
+    directory: '/'
+    versioning-strategy: increase
+    schedule:
+      interval: weekly
+      day: 'saturday'
+    commit-message:
+      prefix: 'fix(deps):'
+      prefix-development: 'chore(deps):'
