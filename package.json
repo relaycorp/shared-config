@@ -5,7 +5,7 @@
   "scripts": {
     "build": "exit 0",
     "test": "exit 0",
-    "test:functional": "exit 0",
+    "test:integration": "exit 0",
     "fix": "prettier . --write",
     "static-checks": "prettier . --list-different"
   },
