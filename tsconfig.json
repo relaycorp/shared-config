@@ -5,6 +5,10 @@
     "lib": ["es2022", "dom"],
     "module": "commonjs",
 
+    "rootDir": "src",
+    "types": ["node", "jest"],
+    "typeRoots": ["node_modules/@types"],
+
     "moduleResolution": "node",
     "declaration": true,
     "sourceMap": true,
@@ -25,9 +29,11 @@
     "listFiles": false /* Print names of files part of the compilation. */,
     "pretty": true /* Stylize errors and messages using color and context. */,
 
+    "experimentalDecorators": true,
     "resolveJsonModule": true
   },
   "compileOnSave": false,
+  "include": ["src/**/*.ts", "src/**/*.mjs"],
   "exclude": [
     "node_modules/**"
   ]
