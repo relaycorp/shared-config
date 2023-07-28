@@ -5,8 +5,6 @@
     "lib": ["es2022", "dom"],
     "module": "commonjs",
 
-    "typeRoots": ["node_modules/@types"],
-
     "moduleResolution": "node",
     "declaration": true,
     "sourceMap": true,
