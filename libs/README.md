@@ -1,1 +1,0 @@
-Configuration for ESM libraries.
