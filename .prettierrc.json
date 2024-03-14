@@ -1,5 +1,14 @@
 {
   "endOfLine": "lf",
   "singleQuote": true,
-  "trailingComma": "all"
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": ["*.md", "*.mdx"],
+      "options": {
+        "printWidth": 100,
+        "proseWrap": "always"
+      }
+    }
+  ]
 }
